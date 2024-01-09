@@ -13,7 +13,7 @@
         android:orientation="vertical">
         <TextView
             android:id="@+id/textViewIngredientQuantity"
-            android:text="1 pc"
+            android:text="1 piece"
             android:textAlignment="center"
             android:singleLine="true"
             android:ellipsize="marquee"
